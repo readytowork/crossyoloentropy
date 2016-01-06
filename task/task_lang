@@ -1,0 +1,19 @@
+# Date Start
+2016-1-6
+# Date End
+2016-12-31
+# Head
+language installation
+# Body[Date Log]
+2016-1-6 init [0/0][d]
+2016-1-6 en shadowing script searching [0/2]
+2016-1-6 en reading materials searching [0/2]
+2016-1-6 en listening materials searching [0/2]
+2016-1-6 en writing materials searching [0/2]
+# Tags[Category, Status, Time spent/expect]
+Type: Task_lang
+Stat: Run
+Time: [-/-]
+# Managing Notes
+# This is an example of a basic structure of a task, each queue 
+# may hold many tasks. Dequeue once a task is been completed.
